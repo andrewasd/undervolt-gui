@@ -12,17 +12,11 @@ this gui is based on this work:
 https://github.com/georgewhewell/undervolt
 make sure "undervolt" command works
 
-
-element {
-  font-size: 75;
-  Compile:
-}
-
-
+Compile:  
 chmod +x install.sh
 sudo ./install.sh
 
-Run:
+Run:  
 sudo ./run.sh
 
 
