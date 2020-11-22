@@ -1,4 +1,4 @@
 #!/bin/bash
 
 chmod +x bin/undervolt
-./bin/undervolt
+nohup ./bin/undervolt
