@@ -15,7 +15,7 @@ make sure "undervolt" command works
 Compile:  
 git clone https://github.com/andrewasd/undervolt-gui.git  
 cd undervolt-gui  
-chmod +x install.sh
+chmod +x install.sh  
 sudo ./install.sh
 
 
