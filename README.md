@@ -10,7 +10,7 @@ g++
 
 this gui is based on this work: 
 https://github.com/georgewhewell/undervolt
-make sure <undervolt> command works
+make sure "undervolt" command works
 
 
 
