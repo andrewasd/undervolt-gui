@@ -15,8 +15,9 @@ make sure "undervolt" command works
 
 element {
   font-size: 75;
+  Compile:
 }
-Compile:
+
 
 chmod +x install.sh
 sudo ./install.sh
