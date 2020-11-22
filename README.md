@@ -1,5 +1,5 @@
 # undervolt-gui
-A gui to manage cpu voltage
+A gui to manage cpu voltage made with QT
 
 ![Alt text](pics/demo1.png?raw=true "Sample")
 ![Alt text](pics/demo2.png?raw=true "Sample")
