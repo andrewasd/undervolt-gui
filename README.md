@@ -1,5 +1,5 @@
 # undervolt-gui
-A gui to manage cpu voltage
+A gui to manage cpu voltage made with QT
 
 ![Alt text](pics/demo1.png?raw=true "Sample")
 ![Alt text](pics/demo2.png?raw=true "Sample")
@@ -13,8 +13,11 @@ https://github.com/georgewhewell/undervolt
 make sure "undervolt" command works
 
 Compile:  
-chmod +x install.sh
+git clone https://github.com/andrewasd/undervolt-gui.git  
+cd undervolt-gui  
+chmod +x install.sh  
 sudo ./install.sh
+
 
 Run:  
 sudo ./run.sh
