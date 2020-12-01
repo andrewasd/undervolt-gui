@@ -24,9 +24,7 @@ cd undervolt-gui
 chmod +x bin/undervolt  
 sudo bin/undervolt  
 
-
-
-
+---------------------------------------------------------------------------
 Compile:  
 git clone https://github.com/andrewasd/undervolt-gui.git  
 cd undervolt-gui  
