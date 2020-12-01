@@ -15,11 +15,11 @@ make sure "undervolt" command works
 
 
 
-Run Binaries x64:
-git clone https://github.com/andrewasd/undervolt-gui.git
-cd undervolt-gui
-chmod +x bin/undervolt
-sudo bin/undervolt
+Run Binaries x64:  
+git clone https://github.com/andrewasd/undervolt-gui.git  
+cd undervolt-gui  
+chmod +x bin/undervolt  
+sudo bin/undervolt  
 
 
 
