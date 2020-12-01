@@ -12,12 +12,23 @@ this gui is based on this work:
 https://github.com/georgewhewell/undervolt  
 make sure "undervolt" command works
 
+
+
+
+Run Binaries x64:
+git clone https://github.com/andrewasd/undervolt-gui.git
+cd undervolt-gui
+chmod +x bin/undervolt
+sudo bin/undervolt
+
+
+
+
 Compile:  
 git clone https://github.com/andrewasd/undervolt-gui.git  
 cd undervolt-gui  
 chmod +x install.sh  
 sudo ./install.sh
-
 
 Run:  
 sudo ./run.sh
