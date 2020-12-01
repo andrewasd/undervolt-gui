@@ -4,9 +4,10 @@ A gui to manage cpu voltage made with QT
 ![Alt text](pics/demo1.png?raw=true "Sample")
 ![Alt text](pics/demo2.png?raw=true "Sample")
 
-Requirements:  
+Requirements for compiling:  
 qmake
 g++
+qt libararies
 
 this gui is based on this work:  
 https://github.com/georgewhewell/undervolt  
@@ -16,6 +17,8 @@ make sure "undervolt" command works
 
 
 Run Binaries x64:  
+this does not need requirements:
+
 git clone https://github.com/andrewasd/undervolt-gui.git  
 cd undervolt-gui  
 chmod +x bin/undervolt  
