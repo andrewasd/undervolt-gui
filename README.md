@@ -22,6 +22,9 @@ sudo ./install.sh
 Run:  
 sudo ./run.sh
 
+The program works but is still buggy, at the beginning it wil ask for the sudo password, but 
+if you dont enter the correct password it may crash the pc.
+
 
 
 
